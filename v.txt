@@ -1,3 +1,4 @@
 first file
 file changed
 new commit
+second commit
